@@ -1,9 +1,10 @@
-Project that shows chemical process - cracking to produce gas oil
+Paper project
 
 Project use:
 
 Front-end:
 JavaScript
+Jquery
 
 Backend:
 Node.js
